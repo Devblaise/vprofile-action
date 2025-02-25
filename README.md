@@ -4,7 +4,7 @@
 This repository implements a **GitOps-based CI/CD pipeline** for deploying applications on **AWS EKS** using **Terraform, GitHub Actions, Docker, Maven, Helm, and SonarCloud**.
 
 ## Architecture
-![GitOps Pipeline](path-to-your-image)
+![GitOps Pipeline](https://github.com/Devblaise/vprofile-action/blob/main/src/assets/GitOps.jpg)
 
 ### Key Components
 - **Visual Studio Code (VS Code)**: Local development environment.
