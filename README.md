@@ -6,7 +6,7 @@ This repository implements a **GitOps-based CI/CD pipeline** for deploying appli
 ## Architecture
 ![GitOps Pipeline](https://github.com/Devblaise/vprofile-action/blob/main/src/assets/GitOps.jpg)
 
-### Key Components
+## Key Components
 - **Visual Studio Code (VS Code)**: Local development environment.
 - **GitHub Actions**: Automates CI/CD workflows.
 - **Terraform**: Infrastructure as Code (IaC) for provisioning AWS resources.
@@ -47,14 +47,15 @@ This repository implements a **GitOps-based CI/CD pipeline** for deploying appli
 - Maven 3
 - MySQL 8 
 
-# Technologies 
+##  Technologies 
 - Spring MVC
 - Spring Security
 - Spring Data JPA
 - Maven
 - JSP
 - MySQL
-# Database
+
+## Database
 Here,we used Mysql DB 
 MSQL DB Installation Steps for Linux ubuntu 14.04:
 - $ sudo apt-get update
